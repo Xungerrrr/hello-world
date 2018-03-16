@@ -1,2 +1,3 @@
 # hello-world
-Just following the guide.
+
+Every journey starts with a "Hello world".
